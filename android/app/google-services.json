@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "799043029018",
+    "firebase_url": "https://homy-3693e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "homy-3693e",
+    "storage_bucket": "homy-3693e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799043029018:android:0b951a2103484faf0429a3",
+        "android_client_info": {
+          "package_name": "com.example.homy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799043029018-kq32ajj5l23p88d82g4lqsnfilim86i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homy",
+            "certificate_hash": "02234139705d371e91f120d241ba84ea6e5301b8"
+          }
+        },
+        {
+          "client_id": "799043029018-508t4drnu9e232b4ocsut4g45tqe3pdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMKwlUq-XH6hsggwjjSWCkP-728FmmFSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799043029018-508t4drnu9e232b4ocsut4g45tqe3pdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799043029018-3nmgq41k3jd2ncgksg2691o3u07rd7cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homy.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799043029018:android:d59eec7f4952d3260429a3",
+        "android_client_info": {
+          "package_name": "com.example.mostafa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799043029018-ah2hcl60ih400be59f9bu1rsehsf4e1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mostafa",
+            "certificate_hash": "02234139705d371e91f120d241ba84ea6e5301b8"
+          }
+        },
+        {
+          "client_id": "799043029018-508t4drnu9e232b4ocsut4g45tqe3pdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMKwlUq-XH6hsggwjjSWCkP-728FmmFSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799043029018-508t4drnu9e232b4ocsut4g45tqe3pdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799043029018-3nmgq41k3jd2ncgksg2691o3u07rd7cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homy.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799043029018:android:53e3741429d8406d0429a3",
+        "android_client_info": {
+          "package_name": "com.example.oscar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799043029018-508t4drnu9e232b4ocsut4g45tqe3pdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMKwlUq-XH6hsggwjjSWCkP-728FmmFSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799043029018-508t4drnu9e232b4ocsut4g45tqe3pdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799043029018-3nmgq41k3jd2ncgksg2691o3u07rd7cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homy.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

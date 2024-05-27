@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>799043029018-ddodu4vvc4kt5okvd8ejh4vr867b2323.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.799043029018-ddodu4vvc4kt5okvd8ejh4vr867b2323</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>799043029018-ah2hcl60ih400be59f9bu1rsehsf4e1a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUeNdXDo0SLTv8sNQLcp5p7s_PiGp9hXw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>799043029018</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.oscar</string>
+	<key>PROJECT_ID</key>
+	<string>homy-3693e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>homy-3693e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:799043029018:ios:ba5abce69a8ff4ad0429a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://homy-3693e-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
